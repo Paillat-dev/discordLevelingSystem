@@ -7,11 +7,8 @@ A library to implement a leveling system into a discord bot. One of the most pop
 ## Installing
 You can install the latest [PyPI version](https://pypi.org/project/discordLevelingSystem/) of the library by doing:
 
-`$ pip install discordLevelingSystem`
 
-Or the development version:
-
-`$ pip install git+https://github.com/Defxult/discordLevelingSystem`
+`$ pip install git+https://github.com/Paillat-dev/discordLevelingSystem`
 
 ---
 
